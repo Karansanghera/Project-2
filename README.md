@@ -6,3 +6,11 @@ The next issue I had was when we were saving using tar.gz in backup.sh and the t
 The last problem that occurred was the backup.sh file not having any output. In the tutorial it showed they add "linuxconfig" and "damian" after the ./backup.sh but did not show how they got those two files or what they were supposed to be.
 As of now, my backup.sh file is accurate to the one on the tutorial but it does not have the same output as the tutorial.
 '
+
+
+
+***Naeem Dhuka***
+i have taken a look at your code and i tried to copy and paste it into my git bash and i am not able to get it run. now i understand that his problebly a problem on 
+my end i was getting the same isse and i think it is the for loop on the bottem, when i run the function backup wihtout the for loop it runs just fine so my assumption
+is that this is a problem with the for loop. even though it is spell one to one like the giving sample form the assingment. if you are haivng an issue with it running 
+as well i would recomend look at the loop. 
