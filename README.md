@@ -14,3 +14,7 @@ i have taken a look at your code and i tried to copy and paste it into my git ba
 my end i was getting the same isse and i think it is the for loop on the bottem, when i run the function backup wihtout the for loop it runs just fine so my assumption
 is that this is a problem with the for loop. even though it is spell one to one like the giving sample form the assingment. if you are haivng an issue with it running 
 as well i would recomend look at the loop. 
+
+***naeem dhuka***
+sorry for the misinfromation i found what was wrong with my code the argument for dir was wrong in the first if statement after adjusting that i was able to get it to
+work so it seem to me thay your code is workng jsut fine. great job
