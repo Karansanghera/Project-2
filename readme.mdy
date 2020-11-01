@@ -19,11 +19,11 @@ as well i would recomend look at the loop.
 sorry for the misinfromation i found what was wrong with my code the argument for dir was wrong in the first if statement after adjusting that i was able to get it to
 work so it seem to me thay your code is workng jsut fine. great job
 
-
 code review: Naeem dhuka project 3
 i have tested all of your codes and all of them work perfectly. i really like your spacing on some of these but i would like
 to see more spacing use between the variable and the loop. the would allow the code to look more clean and readable in the
 case of long data dence scripts. another thing i would like to see is that when you are testing your sripts use larger
 variation between the variable and the destined number for example i would have use a counter that would count form 1 to 5.
 all in all you have done a great job in showing that you can get these scripts to work and i am sure that with a bit of work
-you can get to the point of creating so great complicated scripts.
+you can get to the point of creating so great complicated scripts. 
+
